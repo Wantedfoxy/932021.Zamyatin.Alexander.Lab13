@@ -31,4 +31,4 @@
 8) `docker compose up --build -d`
 9) `docker exec -it uca-php bash`
 10) `chmod -R 777 /var/www`
-11) Открыть `http://localhost:2003`
+11) Открыть `http://localhost:2003/Mockups`
