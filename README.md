@@ -1,4 +1,4 @@
-# 932021.Zamyatin.Alexander.Lab12
+# 932021.Zamyatin.Alexander.Lab13
 
 Лабораторная работа №13 по предмету Web-технологии Цель работы: Работа с HTML-формами
 
